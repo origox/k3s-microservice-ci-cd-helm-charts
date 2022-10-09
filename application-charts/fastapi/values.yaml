@@ -68,5 +68,3 @@ autoscaling:
 nodeSelector: {}
 tolerations: []
 affinity: {}
-deployment:
-  tag: v.0.2.2
